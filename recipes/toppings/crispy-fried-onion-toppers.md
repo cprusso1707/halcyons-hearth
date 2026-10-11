@@ -2,7 +2,7 @@
 
 Homemade, delicately crunchy fried onion strings inspired by packaged crispy fried onions. Intended for baked potatoes, casseroles, burgers, salads, and especially a BBQ chicken loaded spud. The goal is a light, brittle crunch rather than thick-battered onion rings.
 
-**Status:** First-batch recipe; test and tune before calling this final. The freezer instructions below are a practical trial, not yet personally verified.
+**Status:** First-batch **taste-tested success** on October 10, 2026. The 2 mm version was crunchy and delicious. Freezing cooked onions and re-crisping them remains an unverified trial.
 
 ## Yield & Time
 
@@ -21,12 +21,12 @@ Homemade, delicately crunchy fried onion strings inspired by packaged crispy fri
 
 ## Method
 
-1. **Slice very thin:** Peel and slice onions about 1/16 inch (1.5 mm) thick. Use a mandoline *with its hand guard* if available. Separate into thin rings or cut into shorter, topping-sized strips.
+1. **Slice very thin:** Peel and slice onions about 1/16 inch (1.5 mm) thick, **or 2 mm (successfully tested)**. Use a mandoline *with its hand guard* if available. Separate into thin rings or cut into shorter, topping-sized strips.
 2. **Dry:** Blot sliced onions thoroughly with clean towels to remove surface moisture. Avoid soaking them; dry onions fry more predictably.
 3. **Coat sparingly:** Mix flour, cornstarch, salt, and optional sugar. Toss sliced onions lightly, then shake off all excess flour. This should be a dusting, not a batter.
 4. **Heat oil:** Put approximately 3/4–1 inch of oil in a heavy, deep-sided skillet; use enough headroom to avoid overflow. Heat to about 350°F (175°C). Never leave hot oil unattended.
-5. **Fry in small batches:** Add a loose, small handful at a time; fry about 2–4 minutes, stirring gently to prevent clumping. Look for light-to-medium gold and noticeably slower bubbling. Keep temperature near 350°F; onions can go from golden to burned quickly.
-6. **Drain and season:** Lift onto a wire rack over a sheet pan to drain. Sprinkle lightly with salt while hot.
+5. **Fry in small batches:** Add a loose, small handful at a time; fry approximately 2–5 minutes as needed, stirring gently to prevent clumping. Exact time varies; use color rather than a fixed timer. Look for golden-amber color and noticeably slower bubbling; on the first cook, the lighter batch was preferred to the darker initial batch. Keep temperature near 350°F; onions can go from golden to burned quickly.
+6. **Drain and season:** Lift **directly onto a wire rack over a sheet pan** to drain; don't heap them on paper towels where steam can soften them. Sprinkle lightly with salt while hot.
 7. **Cool completely:** The crust firms as it cools. Taste for crunch and adjust thinness, coating, batch size, or oil temperature next time.
 
 ## Make Ahead: Freeze and Re-Crisp (Trial)
@@ -53,3 +53,13 @@ A Gresham, Oregon cart, Spud Lyfe, lists its **BBQ Chix Spud** with shredded chi
 - No egg and no buttermilk for the first trial; we are targeting a thin, dry, delicately crisp topping.
 - First experiment: compare a tiny batch with cornstarch and one with flour only. Record color, crunch after cooling, and crunch after freezing.
 - Inspiration / menu reference: https://www.trycaviar.com/en-AU/food-delivery/gresham-or-restaurants/cajun/ (Spud Lyfe's BBQ Chix Spud listing; menu and prices can change).
+
+## Tested First-Batch Results — October 10, 2026
+
+- **2 mm mandoline setting:** Produced thin, attractive onion rings and strings that fried crisp. The originally suggested 1.5 mm was **not** necessary.
+- **Drying first:** Onions were spread on towels and blotted before coating.
+- **Coating:** Fine dusting of flour and cornstarch, shaken free of excess; no wet batter.
+- **Doneness calibration:** First batch looked quite dark yet tasted great. Pulling the next batch earlier gave a more attractive golden-amber finish and was also reported **awesome**. Exact cooking time wasn't measured; judge by color, bubbling and cooled crunch.
+- **Drain:** Use the wire rack directly rather than placing paper towels over the rack, to reduce trapped steam.
+- **Raw onion freezer experiment:** Half the sliced *raw* onions were frozen before frying. Whether they will still fry crisp after thawing has **not** been tested; thawed slices may release substantially more water. Use caution and thoroughly dry any thawed onions before frying, or reserve for cooked applications.
+- **Paired dish:** [Smoky BBQ Chicken Loaded Baked Potatoes](../mains/smoky-bbq-chicken-loaded-baked-potatoes.md). The finished dinner received an enthusiastic thumbs-up.
