@@ -1,6 +1,6 @@
 # Halcyon's Hearth — Smoky Garlic Butter Parmesan Pumpkin Seeds
 
-**Status:** First-taste success — October 30, 2026. The first two seeds tasted **"awesome"**. An additional 5-minute roast was chosen for extra crunch; the final fully cooled texture has not yet been reported.
+**Status:** **Halloween 2026 keeper** — October 30, 2026. The first samples tasted **"awesome"**; after tasting lighter and darker seeds, the cook gave the batch an additional 5-minute roast and then another 3 minutes, with a delighted **"Oh-- damn"** verdict. Exact fully cooled crunch was not separately documented.
 
 Freshly carved Halloween pumpkin seeds, roasted in garlic butter with onion powder, smoked paprika, a pinch of cayenne, and a finishing coat of toasted Parmesan. Savory, smoky, cheesy, and just a little warm.
 
@@ -55,6 +55,6 @@ Freshly carved Halloween pumpkin seeds, roasted in garlic butter with onion powd
 - **Confirmed adjustment:** Added **a pinch of cayenne pepper** to the garlic-butter-Parmesan seasoning.
 - **Visual result:** A golden, spiced coating with visible bits and clusters of Parmesan on the baking sheet.
 - **First tasting:** Two seeds tasted **"awesome."**
-- **Extra roast:** Cook elected to give the seeds **five more minutes at 325°F** to improve crunch.
-- **Not yet confirmed:** Final cooled crispness, exact yield, and whether the whole batch is declared a keeper.
-- **Future note:** If the cayenne heat is right, keep the pinch as the house default; adjust only after the full-batch tasting.
+- **Extra roast:** Cook added **five more minutes**, sampled lighter and darker seeds, then added a final **three minutes at 325°F**. For future batches, judge by seed size and an actual taste test, not a rigid clock.
+- **Keeper verdict:** User's delighted **"Oh-- damn"** after the final roast confirms this as a keeper. Final cooled crispness and exact yield were not separately documented.
+- **House variation:** Preserve **a pinch of cayenne** as used in the successful batch; adjust only to taste on future cooks.
